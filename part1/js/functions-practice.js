@@ -14,6 +14,9 @@ function percentOf(number, wholeValue) {
   console.log(`${number} is ${percentage}% of ${wholeValue}`)
 }
 //STEP 4
-function findModulus()
+function findModulus(firstNumber, secondNumber) {
+  let answer = firstNumber % secondNumber
+  console.log(`${answer} is the modulus of ${firstNumber} and ${secondNumber}`)
+}
 
 //STEP 5
