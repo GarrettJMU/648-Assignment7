@@ -17,5 +17,4 @@ function rockPaperScissors() {
   } else {
     rockPaperScissors()
   }
-
 }
